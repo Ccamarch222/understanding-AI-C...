@@ -12,7 +12,7 @@ message wo hote hain jo model ki taraf se diye gaye jawab hote hain.
 ### 2. Content:
 ye wo text hota hai jo message ke andar diya gaya hota hai, jaise koi question ya instruction.
 
- Ye structured conversation history bohot zaroori hoti hai taake model ko har new request ka context samajh aaye. Isse model ko ye samahne mein madaf milti hai ke kis type ka jawab dena chahiye based on previous messages.
+ Ye structured conversation history bohot zaroori hoti hai taake model ko har new request ka context samajh aaye. Isse model ko ye samahne mein madad milti hai ke kis type ka jawab dena chahiye based on previous messages.
 ## Model
 model parameter wo model specify karta hai jo app response genrate karne ke liy use karna chahte hain.
  Har model ki apni capabilities , strengths, our costs hoti hain.Is liye, shai model ka intekhab performance our cost optimization ke liye bohat zaroori hai.
