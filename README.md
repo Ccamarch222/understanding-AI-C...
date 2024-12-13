@@ -2,7 +2,7 @@
 ## Messages
 parameter ail list hoti hai jisme har item aik dictionary hota hai.Har dictionary aik message ko represent karta hai jo conversation meain exchange ho rha hota hai. Har message ka do main hisay hote hain:
 ### 1. Role: 
-ye bhtaata hai ke message kis ka taraf se hai.ye"system","use","user", "assistant" ho sakta hai.
+ye bhtaata hai ke message kis ka taraf se hai.Ye**"system"**,**"user"**,** "assistant"** ho sakta hai.
  **System:**
 messaage wo hota hai jo assistant ki persona ya behavior se karta hai.Matlab ye bataata hai ke assistant ko kis tarah se jawab dena chahiye.
 **User:**
