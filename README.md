@@ -3,11 +3,11 @@
 parameter ail list hoti hai jisme har item aik dictionary hota hai.Har dictionary aik message ko represent karta hai jo conversation meain exchange ho rha hota hai. Har message ka do main hisay hote hain:
 ## 1. Role: 
 ye bhtaata hai ke message kis ka taraf se hai.ye"system","use","user", "assistant" ho sakta hai.
-# System:
+ **System:**
 messaage wo hota hai jo assistant ki persona ya behavior se karta hai.Matlab ye bataata hai ke assistant ko kis tarah se jawab dena chahiye.
-# User:
+**User:**
 messages wo hotay hain jisme user apna sawal ya instruction deta hai.
-# Assistant:
+** Assistant:**
 message wo hote hain jo model ki taraf se diye gaye jawab hote hain.
 ## 2. Content:
 ye wo text hota hai jo message ke andar diya gaya hota hai, jaise koi question ya instruction.
@@ -20,7 +20,7 @@ model parameter wo model specify karta hai jo app response genrate karne ke liy 
 
 ### Max Completion Tokens
 parameter wo limit se karta hai jo model apne response mein genrate kar sakta har.
-## Tokens
+**Tokens**
 wo chhoe tukde hote hai jo words ya unke hisso ko represent karte hain.Is parameter ki madad se genrate hone wale textki length ko control kar sakte hai.
 Limit kam karne se response incomplete ho sakta hai .Or zada karne se unnecessarily ho shkta hai ,Jis se cost zayada kar sakta hai.
 
