@@ -7,7 +7,7 @@ ye bhtaata hai ke message kis ka taraf se hai.ye"system","use","user", "assistan
 messaage wo hota hai jo assistant ki persona ya behavior se karta hai.Matlab ye bataata hai ke assistant ko kis tarah se jawab dena chahiye.
 **User:**
 messages wo hotay hain jisme user apna sawal ya instruction deta hai.
-** Assistant:**
+**Assistant:**
 message wo hote hain jo model ki taraf se diye gaye jawab hote hain.
 ## 2. Content:
 ye wo text hota hai jo message ke andar diya gaya hota hai, jaise koi question ya instruction.
