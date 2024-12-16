@@ -1,6 +1,6 @@
 # Understanding-AI-C...
 ## Messages
-parameter ail list hoti hai jisme har item aik dictionary hota hai.Har dictionary aik message ko represent karta hai jo conversation meain exchange ho rha hota hai. Har message ka do main hisay hote hain:
+parameter aik list hoti hai jisme har item aik dictionary hota hai.Har dictionary aik message ko represent karta hai jo conversation meain exchange ho rha hota hai. Har message ka do main hisay hote hain:
 ### 1. Role: 
 ye bhtaata hai ke message kis ka taraf se hai.Ye **system**, **user**, **assistant** ho sakta hai.
  **System:**
